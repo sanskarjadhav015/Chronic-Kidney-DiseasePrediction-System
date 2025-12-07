@@ -1,0 +1,32 @@
+# -------- Virtual Environment --------
+.venv/
+venv/
+env/
+
+# -------- Python Cache Files --------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------- Jupyter Notebook Checkpoints --------
+.ipynb_checkpoints/
+
+# -------- OS Files --------
+.DS_Store
+Thumbs.db
+
+# -------- Logs & Temp Files --------
+*.log
+*.tmp
+
+# -------- Model Files (Optional if big) --------
+*.h5
+*.joblib
+*.pkl
+
+# -------- VS Code Settings --------
+.vscode/
+
+# -------- Environment Variables --------
+.env
